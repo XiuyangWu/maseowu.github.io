@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+Welcome to Xiuyang Wu's website!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -83,7 +83,7 @@ author:
   name             : "Xiuyang Wu (吴修杨)"
   avatar           : url :"XiuyangWu.png"
                      rounded :true
-  bio              : "Hi there! I am an undergrad @ School of Internet Anhui University degree in Data Science and Big Date Technology."
+  bio              : "Hi there! I am an undergrad @ SOI degree in Data Science and Big Date Technology."
   email            : "xiuyang_wu@163.com"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/Xiuyang-Wu"
