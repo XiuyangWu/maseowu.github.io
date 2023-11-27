@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xiuyang Wu @ School of Internet, Anhui University"
 title_separator          : "-"
 name                     : &name "Xiuyang Wu"
-description              : &description "Hi there! I am an undergrad @ School of Internet Anhui University degree in Data Science and Big Date Technology."
+description              : &description "Hi there! I am an undergrad @ SOI degree in Data Science and Big Date Technology."
 url                      : https://xiuyangwu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "XiuyangWu/xiuyangwu.github.io"
@@ -81,7 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Xiuyang Wu (吴修杨)"
-  avatar           : "XiuyangWu.png"
+  avatar           : url :"XiuyangWu.png"
+                     rounded :true
   bio              : "Hi there! I am an undergrad @ School of Internet Anhui University degree in Data Science and Big Date Technology."
   email            : "xiuyang_wu@163.com"
   googlescholar    : "http://yourfullgooglescholarurl.com"
