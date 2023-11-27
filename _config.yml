@@ -80,15 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Xiuyang Wu (吴修杨)"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  bio              : "Hi there! I am an undergrad @ School of Internet Anhui University degree in Data Science and Big Date Technology."
+  email            : "xiuyang_wu@163.com"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  # example: "https://www.researchgate.net/profile/Xiuyang-Wu"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "XiuyangWu"
   google_plus      :
   keybase          :
   instagram        :
