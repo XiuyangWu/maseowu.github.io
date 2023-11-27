@@ -81,37 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Xiuyang Wu (吴修杨)"
-  avatar           : url :"XiuyangWu.png"
-                     rounded :true
+  avatar           : url : "XiuyangWu.png"
+                     rounded : true
   bio              : "Hi there! I am an undergrad @ SOI degree in Data Science and Big Date Technology."
   email            : "xiuyang_wu@163.com"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/Xiuyang-Wu"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "XiuyangWu"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
 
 
 # Reading Files
