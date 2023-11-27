@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xiuyang Wu (吴修杨)"
-  avatar           : url : "XiuyangWu.png"
+  avatar           : "XiuyangWu.png"
   bio              : "Hi there! I am an undergrad @ SOI degree in Data Science and Big Date Technology."
   location         : "Location"
   employer         : "xiuyang_wu@163.com"
