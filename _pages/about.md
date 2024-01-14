@@ -14,6 +14,12 @@ My academic pursuits are anchored in the study of **nonlinear systems**, **graph
 
 If you're navigating similar waters or simply wish to exchange thoughts on the ever-evolving landscape of technology, I'd love to connect. There's nothing more enriching than sharing insights and fueling our collective curiosity in this dynamic field!
 
+Recent News
+======
+1. *Oct, 2023.* Awarded **National Scholarship** by Ministry of Education!
+2. *Nov, 2023.* **National Second Prize**, ChinaUndergraduate Mathematical Contest in Modelling（CUMCM）.
+3. *Oct, 2023.* Awarded **Excellent Student Cadre and Pacesetter** by Anhui University.
+
 Research Interests
 ======
 - **Nonlinear Systems**: My research focuses on applying fractional-order differential equations in infectious disease modeling, enhancing predictive analytics in public health.
@@ -21,12 +27,6 @@ Research Interests
 - **Graph Neural Networks**: I explore the use of graph neural networks for financial data analysis, extending to areas like market trend prediction and financial network analysis.
 
 - **Knowledge Graphs**: I specialize in developing knowledge graphs for the financial sector, aiming to improve decision-making with a focus on a project called “GraphFinAl,” similar to ChatGPT but tailored for finance.
-
-Recent News
-======
-1. *Oct, 2023.* Awarded **National Scholarship** by Ministry of Education!
-2. *Nov, 2023.* **National Second Prize**, ChinaUndergraduate Mathematical Contest in Modelling（CUMCM）.
-3. *Oct, 2023.* Awarded **Excellent Student Cadre and Pacesetter** by Anhui University.
 
 For more info
 ------
