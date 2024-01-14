@@ -4,4 +4,5 @@ excerpt: "Every tree is a testament to personal growth<br/><img src='/images/202
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+If you spend your time chasing butterflies,they fly away
+but if you spent your time making a beautiful garden,the butterflies will come to you！
