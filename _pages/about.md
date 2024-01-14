@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm currently a junior student at [Anhui University](https://www.ahu.edu.cn/), enrolled in the [School of Internet](https://si.ahu.edu.cn/), where I'm pursuing a major in Data Science and Big Data Technology. This journey has not only honed my technical skills but also ignited a passion for delving into complex data realms.
+Hi! I'm currently a junior student at [Anhui University](https://www.ahu.edu.cn/), enrolled in the [School of Internet](https://si.ahu.edu.cn/), where I'm pursuing a major in **Data Science and Big Data Technology**. This journey has not only honed my technical skills but also ignited a passion for delving into complex data realms.
 
 My academic pursuits are anchored in the study of **nonlinear systems**, **graph neural networks**, and **knowledge graphs**. These areas are particularly captivating to me, as they unravel the intricate patterns and connections within vast datasets. My exploratory spirit doesn't stop here, though; I am always keen to dive into diverse topics within data science and embrace new challenges.
 
