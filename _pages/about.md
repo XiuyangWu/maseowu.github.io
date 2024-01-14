@@ -16,16 +16,16 @@ If you're navigating similar waters or simply wish to exchange thoughts on the e
 
 Research Interests
 ======
-- **Nonlinear Systems**: Focused on studying the nonlinear dynamics within complex systems, particularly with respect to modeling and understanding these behaviors in the context of data science.
+- **Nonlinear Systems**: My research focuses on applying fractional-order differential equations in infectious disease modeling, enhancing predictive analytics in public health.
 
-- **Graph Neural Networks**: Exploring the application of graph neural networks in processing and analyzing large-scale datasets, including but not limited to social network analysis, recommendation systems, and bioinformatics.
+- **Graph Neural Networks**: I explore the use of graph neural networks for financial data analysis, extending to areas like market trend prediction and financial network analysis.
 
-- **Knowledge Graphs**: Investigating the construction, optimization, and application of knowledge graphs for enhancing semantic understanding and decision support systems in data.
+- **Knowledge Graphs**: I specialize in developing knowledge graphs for the financial sector, aiming to improve decision-making with a focus on a project called “GraphFinAl,” similar to ChatGPT but tailored for finance.
 
 Recent News
 ======
-1. Oct, 2023. Awarded National Scholarship by Ministry of Education!
-2. Nov, 2023. National Second Prize, ChinaUndergraduate Mathematical Contest in Modelling（CUMCM）.
+1. *Oct, 2023.* Awarded **National Scholarship** by Ministry of Education!
+2. *Nov, 2023.* **National Second Prize**, ChinaUndergraduate Mathematical Contest in Modelling（CUMCM）.
 
 For more info
 ------
