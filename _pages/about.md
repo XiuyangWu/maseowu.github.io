@@ -30,4 +30,4 @@ Research Interests
 
 For more info
 ------
-For more information about me, please don't hesitate to drop me [an email](xiuyang_wu@163.com). I'm always open to engaging conversations and new connections!
+For more information about me, please don't hesitate to drop me an email. I'm always open to engaging conversations and new connections!
