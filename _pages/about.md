@@ -19,6 +19,7 @@ Recent News
 1. *Oct, 2023.* Awarded **National Scholarship** by Ministry of Education!
 2. *Nov, 2023.* **National Second Prize**, ChinaUndergraduate Mathematical Contest in Modelling（CUMCM）.
 3. *Oct, 2023.* Awarded **Excellent Student Cadre and Pacesetter** by Anhui University.
+4. *Jan, 2024.* **Outstanding Prize**, 2024 "Huashu Cup" International Mathematical Contest in Modeling.
 
 Research Interests
 ======
