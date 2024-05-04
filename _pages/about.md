@@ -20,6 +20,8 @@ Recent News
 2. *Nov, 2023.* **National Second Prize**, ChinaUndergraduate Mathematical Contest in Modelling（CUMCM）.
 3. *Oct, 2023.* Awarded **Excellent Student Cadre and Pacesetter** by Anhui University.
 4. *Jan, 2024.* **Outstanding Prize**, 2024 "Huashu Cup" International Mathematical Contest in Modeling.
+5. *Apr, 2024.* **Second Prize**, The 15th Anhui Province Blue Bridge Cup Programming Competition.
+6. *May, 2024.* **Meritorious Winner**, 2024 Mathematical Contest In Modeling & Interdisciplinary Contest In Modeling（MCM/ICM）.
 
 Research Interests
 ======
