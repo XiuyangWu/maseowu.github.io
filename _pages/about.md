@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm currently a senior student at [Anhui University](https://www.ahu.edu.cn/), enrolled in the [School of Internet](https://si.ahu.edu.cn/), where I'm pursuing a major in **Data Science and Big Data Technology**. This journey has not only honed my technical skills but also ignited a passion for delving into complex data realms.
+Hi! I'm currently a senior student at [Anhui University](https://www.ahu.edu.cn/), enrolled in the [School of Internet](https://si.ahu.edu.cn/), where I'm pursuing a major in **Data Science and Big Data Technology**. I'm ready to be a master student at the **Shenzhen International Graduate School of Tsinghua University** ([SIGS](https://www.sigs.tsinghua.edu.cn/), [THU](https://www.tsinghua.edu.cn/)) in Shenzhen!
 
 My academic pursuits are anchored in the study of **nonlinear systems**, **graph neural networks**, **knowledge graphs** and **artificial intelligence**. These areas are particularly captivating to me, as they unravel the intricate patterns and connections within vast datasets. My exploratory spirit doesn't stop here, though; I am always keen to dive into diverse topics within data science and embrace new challenges.
 
-**When you can see the future, Just hold on a little longer than others.！**
+**When you can see the future, Just hold on a little longer than others！**
 
 Recent News
 ======
