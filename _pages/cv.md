@@ -17,7 +17,7 @@ Education
   ![Hefei No.1 High School](path_to_image_2.jpg)
 * B.S. in Data Science and Big Data Technology, Anhui University, 2021-2025  
   ![Anhui University](path_to_image_3.jpg)
-* M.S. in Computer Technology, Tsinghua University, 2025-2028
+* M.S. in Computer Technology, Tsinghua University, 2025-2028  
   ![Tsinghua University](path_to_image_3.jpg)
 <!-- * * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
