@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I'm currently a senior student at [Anhui University](https://www.ahu.edu.cn/), enrolled in the [School of Internet](https://si.ahu.edu.cn/), where I'm pursuing a major in **Data Science and Big Data Technology**. I'm ready to be a master student at the **Shenzhen International Graduate School of Tsinghua University** ([SIGS](https://www.sigs.tsinghua.edu.cn/), [THU](https://www.tsinghua.edu.cn/)) in Shenzhen!
 
-My academic pursuits are anchored in the study of **nonlinear systems**, **graph neural networks**, **knowledge graphs** and **artificial intelligence**. These areas are particularly captivating to me, as they unravel the intricate patterns and connections within vast datasets. My exploratory spirit doesn't stop here, though; I am always keen to dive into diverse topics within data science and embrace new challenges.
+My academic pursuits are anchored in the study of **graph neural networks**, **knowledge graphs**, **artificial intelligence** and **Digital Human and Large Language Model**. 
 
 **When you can see the future, Just hold on a little longer than others！**
 
@@ -26,8 +26,6 @@ Recent News
 
 Research Interests
 ======
-- **Nonlinear Systems**: My research focuses on applying fractional-order differential equations in infectious disease modeling, enhancing predictive analytics in public health.
-
 - **Graph Neural Networks**: I explore the use of graph neural networks for financial data analysis, extending to areas like market trend prediction and financial network analysis.
 
 - **Knowledge Graphs**: I specialize in developing knowledge graphs for the financial sector, aiming to improve decision-making with a focus on a project called “GraphFinAl,” similar to ChatGPT but tailored for finance.
