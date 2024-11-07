@@ -16,9 +16,9 @@ Education
 * H.S. in Hefei No.1 High School, 2018-2021  
   ![Hefei No.1 High School](/images/Hefei_No1_High_School.jpg)
 * B.S. in Data Science and Big Data Technology, Anhui University, 2021-2025  
-  ![Anhui University](path_to_image_3.jpg)
+  ![Anhui University](/images/Anhui_University.jpg)
 * M.S. in Computer Technology, Tsinghua University, 2025-2028  
-  ![Tsinghua University](path_to_image_3.jpg)
+  ![Tsinghua University](/images/Tsinghua_University.jpg)
 <!-- * * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 [Download my CV (PDF)](/files/XiuyangWu's_CV.pdf)
