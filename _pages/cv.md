@@ -16,3 +16,5 @@ Education
 * B.S. in Data Science and Big Data Technology, Anhui University, 2021-Present
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
 <!-- * * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+
+[Download my CV (PDF)](/assets/files/XiuyangWu's_CV.pdf)
