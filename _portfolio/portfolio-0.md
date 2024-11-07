@@ -7,4 +7,4 @@ collection: portfolio
 > A stonecutter strikes a rock. He hits it 100 times in a row, yet the rock doesn’t budge. But on the 101st strike, the rock splits in two. I know, though, that it wasn’t just that final blow that broke the rock—it was the result of all the hundred strikes before it.
 
 ![Recommendation 1](/images/Postgraduate_recommendation.png)
-![Recommendation 2](/images/Another_photo.png)
+![Recommendation 2](/images/Tsinghua.png)
