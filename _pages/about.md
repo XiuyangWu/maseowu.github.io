@@ -19,8 +19,8 @@ Recent News
 1. *Nov, 2024.* "THE DYNAMICAL BEHAVIORS OF A STOCHASTIC MUMPS INFECTIOUS DISEASE MODEL" accepted to **Mathematical Methods in the Applied Sciences（MMA）**!
 2. *Oct, 2024.* "SEHG: Bridging Interpretability and Prediction in Self-Explainable Heterogeneous Graph Neural Networks" Submitted to **WWW2025**!
 3. *Sep 29, 2024.* Recommended for admission to **Tsinghua University’s** Master’s in **Computer Technology（085404）**!
-4. *Sep, 2024.* Awarded **National Scholarship** by Ministry of Education（0.2%）.
-5. *May, 2024.* **Meritorious Winner**, 2024 Mathematical Contest In Modeling & Interdisciplinary Contest In Modeling（MCM/ICM）.
+4. *Sep, 2024.* Awarded **National Scholarship** by Ministry of Education **（0.2%）**.
+5. *May, 2024.* **Meritorious Winner**, 2024 Mathematical Contest In Modeling & Interdisciplinary Contest In Modeling **（MCM/ICM）**.
 <!-- 6. *Nov, 2023.* **National Second Prize**, ChinaUndergraduate Mathematical Contest in Modelling（CUMCM）. -->
 <!-- 7. *Oct, 2023.* Awarded **National Scholarship** by Ministry of Education（0.2%）. -->
 
