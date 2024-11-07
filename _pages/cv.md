@@ -17,4 +17,4 @@ Education
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
 <!-- * * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
-[Download my CV (PDF)](/assets/files/XiuyangWu's_CV.pdf)
+[Download my CV (PDF)](/files/XiuyangWu's_CV.pdf)
