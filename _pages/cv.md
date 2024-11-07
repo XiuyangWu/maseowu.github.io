@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in HeFei 168 Rose Garden school, 2015-2018  
-  ![HeFei 168 Rose Garden](/images/Tsinghua.png)
+  ![HeFei 168 Rose Garden](/images/HeFei_168_Rose_Garden.jpg)
 * H.S. in Hefei No.1 High School, 2018-2021  
   ![Hefei No.1 High School](path_to_image_2.jpg)
 * B.S. in Data Science and Big Data Technology, Anhui University, 2021-2025  
