@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my CV (PDF)](/files/XiuyangWu's_CV.pdf)
+
 Education
 ======
 * M.S. in HeFei 168 Rose Garden school, 2015-2018  
@@ -20,5 +22,3 @@ Education
 * M.S. in Computer Technology, Tsinghua University, 2025-2028  
   ![Tsinghua University](/images/Tsinghua_University.jpg)
 <!-- * * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
-
-[Download my CV (PDF)](/files/XiuyangWu's_CV.pdf)
